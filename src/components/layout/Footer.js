@@ -39,7 +39,7 @@ const Footer = ({
           )}>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
           <FooterSocial />
-            <div className="footer-copyright">Made by Surya Annamdevula. All rights reserved</div> 
+            <div className="footer-copyright">Made by Surya Annamdevula. All rights reserved.</div>  Address: Ritter 115 Saint Louis University, St. Louis, MO 63103
 
           </div>
           <div className="footer-top space-between text-xxs">

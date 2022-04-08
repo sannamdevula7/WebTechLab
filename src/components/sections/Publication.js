@@ -58,6 +58,23 @@ const Publication = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
 
+
+          <div className="tiles-item reveal-from-bottom">
+              <div className="tiles-item-inner">
+                <div className="testimonial-item-content">
+                  <p className="text-sm mb-0">
+                  Mobile devices supporting the "Internet of Things" (IoT), often have limited capabilities in computation, battery energy, and storage space, especially to support resource-intensive applications involving virtual reality (VR), augmented reality (AR), multimedia delivery and artificial...</p>
+                </div>
+                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                  <span className="testimonial-item-name text-color-high">Flavio Esposito</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="http://arxiv.org/abs/1806.06191" >Edge Cloud Offloading Algorithms: Issues, Methods, and Perspectives</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+            
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
@@ -74,21 +91,6 @@ const Publication = ({
               </div>
             </div>
 
-            <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                  Mobile devices supporting the "Internet of Things" (IoT), often have limited capabilities in computation, battery energy, and storage space, especially to support resource-intensive applications involving virtual reality (VR), augmented reality (AR), multimedia delivery and artificial...</p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Flavio Esposito</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="http://arxiv.org/abs/1806.06191" >Edge Cloud Offloading Algorithms: Issues, Methods, and Perspectives</a>
-                  </span>
-                </div>
-              </div>
-            </div>
 
             <div className="tiles-item reveal-from-left" data-reveal-delay="200">
               <div className="tiles-item-inner">

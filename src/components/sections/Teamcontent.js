@@ -64,12 +64,11 @@ const Teamcontent = ({
                   <p className="text-sm mb-0">Lab Director</p>
               
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Flavio Esposito</span>
+                  <span className="testimonial-item-name text-color-high">Paul Turner</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <p>Email : flavio.esposito@slu.edu</p>
-                    <p>Office: ISE 234D 
-3450 Lindell Blvd, St. Louis, MO 63103 </p>
+                    <p>Email : paul.turner@slu.edu</p>
+                    <p>Office: ISE 221, SLU, St. Louis, MO 63103 </p>
                   </span>
                 </div>
               </div>

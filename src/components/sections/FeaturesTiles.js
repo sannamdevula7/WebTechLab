@@ -4,7 +4,6 @@ import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
 
-import './feed.css';
 
 const propTypes = {
   ...SectionTilesProps.types
@@ -189,55 +188,7 @@ const FeaturesTiles = ({
           </div>
         </div>
       </div>
-      <section>
-      <div class="container">
-<div class="row bootstrap snippets bootdey">
-    <div class="col-md-7 col-xs-12 col-md-offset-3">
-      <div class="panel" id="daily-feed">
-        <div class="panel-heading">
-          <h3 class="panel-title">News feed</h3>
-        </div>
-        <div class="panel-body">
-          <ul class="list-group list-group-dividered list-group-full">
-            <li class="list-group-item">
-              <div class="media">
-                
-                <div class="media-body">
-                    <p>Edward Fletcher posted a new blog.</p>
-                </div>
-              </div>
-            </li>
-            <li class="list-group-item">
-              <div class="media">
-                
-                <div class="media-body">
-                    <p>  Edward Fletcher posted a new blog. </p> 
-                </div>
-              </div>
-            </li>
-            <li class="list-group-item">
-              <div class="media">
-                
-                <div class="media-body">
-                    <p>  Edward Fletcher posted a new blog.</p>                  
-                </div>
-              </div>
-            </li>
-            <li class="list-group-item">
-              <div class="media">
-                
-                <div class="media-body">
-                    <p>  Edward Fletcher</p> 
-                </div>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-</div>
-</div>
-      </section>
+      
     </section>
   );
 }

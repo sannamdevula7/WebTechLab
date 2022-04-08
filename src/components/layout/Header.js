@@ -116,7 +116,7 @@ const Header = ({
                      <Link to="/research">Research Projects</Link>
                     </li>
                     <li>
-                    <Link to="/publications">Pubilcations</Link>
+                    <Link to="/publications">Publications</Link>
                     </li>
                      <li>
                      <Link to="/team">Team</Link>
